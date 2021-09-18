@@ -1,14 +1,9 @@
 # Workshop
-To all the Space Enthusiasts and novice coders out there, we have brought to you an online module on Python with Space Applications 🚀
+Spaceonova is a space education and research based company comprising visionaries and dedicated members who are striving with elegance to make all the fields of space sciences available to the enthusiasts and help them in their journey of knowing the cosmos better.
 
-The Training Programme would teach you the intermediate level of Python as well as various problem statements which will be dealt with to get a good grasp of its applications in space sciences. 🐍
+On the mission to inspire more and more people about the possibilities of <b>Space Sciences</b> we have brought to you the 2 days free workshop on <b>Space Applications of Programming</b> where you will learn all about where programming or coding is helping Astronomers, Astrophysicists, Rocket Scientists, etc, in there specific field and how you can reach the stars too using the same. 
 
-Weekly classes will be held in this Training Programme, with a set of problem statements based on the same concepts taught. 
+In the two days workshop we will cover:
 
-These problem statements vary from daily life applications to space applications like making your own Discord Bot, Detecting Hidden Pulsars, Sending mails, Visualising Sunspots, and many more. 
-
-"Per Python Ad Astra," which translates to "To the Stars through Python," is our motto, which is a slightly adapted Latin phrase.
-
-So come along with us on this incredible journey to the stars using Python.
-
-Register <a href="https://spaceonova.com/python">here</a>.
+Day 1: Basic Python. 
+Day 2: Space Applications and Career Opportunities.
