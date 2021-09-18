@@ -10,3 +10,5 @@ These problem statements vary from daily life applications to space applications
 "Per Python Ad Astra," which translates to "To the Stars through Python," is our motto, which is a slightly adapted Latin phrase.
 
 So come along with us on this incredible journey to the stars using Python.
+
+Register <a href="https://spaceonova.com/python">here</a>.
