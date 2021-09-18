@@ -5,5 +5,7 @@ On the mission to inspire more and more people about the possibilities of <b>Spa
 
 In the two days workshop we will cover:
 
-Day 1: Basic Python. 
-Day 2: Space Applications and Career Opportunities.
+<ul>
+  <li>Day 1: Basic Python. </li>
+  <li>Day 2: Space Applications and Career Opportunities.</li>
+  </ul>
