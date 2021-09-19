@@ -9,3 +9,7 @@ In the two days workshop we will cover:
   <li>Day 1: Basic Python. </li>
   <li>Day 2: Space Applications and Career Opportunities.</li>
   </ul>
+  
+You can download the Jupyter Notebook on https://www.anaconda.com/products/individual/.
+
+You can register for the Training Programme on https://spaceonova.com/python.
